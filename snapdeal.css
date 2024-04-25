@@ -1,6 +1,6 @@
 @font-face {
     font-family: snapdeal;
-    src: url(/Snapdeal/fonts/snapdeal_font77.woff);
+    src: url(fonts/snapdeal_font77.woff);
 }
 .empty1{
     background: #ba2840;
@@ -255,7 +255,7 @@ body{
     background-position: center center;
     background-position: 0px 0px;
     background-size: cover;
-    background-image: url(/Snapdeal/images/barCode.png);
+    background-image: url(images/barCode.png);
 }
 .barcode-text{
     width: 113px;
@@ -402,7 +402,7 @@ body{
     height: 88px;
     overflow: hidden;
     margin: 30px auto 30px;
-    background-image: url(/Snapdeal/images/artboardNext@2x.png);
+    background-image: url(images/artboardNext@2x.png);
     background-size: 385px 138px;
     background-position: -5px -4px;
 }
@@ -612,7 +612,7 @@ body{
     float: left;
     top: 185px;
     background: white;
-    background-image: url(/Snapdeal/images/leaf\ down.png);
+    background-image: url(images/leaf\ down.png);
     background-size: 220px 300px;
     background-repeat: no-repeat;
     background-position: right top;
@@ -660,7 +660,7 @@ body{
     height: 41px;
     vertical-align: top;
     background-position: 0px -153px;
-    background-image: url(/Snapdeal/images/newHomePageIcons@1x.png);
+    background-image: url(images/newHomePageIcons@1x.png);
     background-size: 362px 240px;
     display: inline-block;
     cursor: pointer;
@@ -670,7 +670,7 @@ body{
     height: 41px;
     vertical-align: top;
     background-position: 0px -196px;
-    background-image: url(../Snapdeal/images/newHomePageIcons@1x.png);
+    background-image: url(images/newHomePageIcons@1x.png);
     background-size: 362px 240px;
     display: inline-block;
     cursor: pointer;
@@ -711,7 +711,7 @@ body{
     width: 60px;
     height: 51px;
     background-position: -366px -63px;
-    background-image: url(../Snapdeal/images/newHomePageIcons@1x.png);
+    background-image: url(images/newHomePageIcons@1x.png);
     background-size: 362px 240px;
     display: inline-block;
     vertical-align: middle;
@@ -720,7 +720,7 @@ body{
     width: 48px;
     height: 51px;
     background-position: -420px -63px;
-    background-image: url(../Snapdeal/images/newHomePageIcons@1x.png);
+    background-image: url(images/newHomePageIcons@1x.png);
     background-size: 362px 240px;
     display: inline-block;
     vertical-align: middle;
@@ -729,7 +729,7 @@ body{
     width: 54px;
     height: 51px;
     background-position: -467px -63px;
-    background-image: url(../Snapdeal/images/newHomePageIcons@1x.png);
+    background-image: url(images/newHomePageIcons@1x.png);
     background-size: 362px 240px;
     display: inline-block;
     vertical-align: middle;
@@ -738,7 +738,7 @@ body{
     width: 38px;
     height: 51px;
     background-position: -520px -63px;
-    background-image: url(../Snapdeal/images/newHomePageIcons@1x.png);
+    background-image: url(images/newHomePageIcons@1x.png);
     background-size: 362px 240px;
     display: inline-block;
     vertical-align: middle;
@@ -901,7 +901,7 @@ body{
 .payment-icons1{
     margin-right: 10px;
     border-radius: 5px;
-    background-image: url(../Snapdeal/images/newHomePageIcons@1x.png);
+    background-image: url(images/newHomePageIcons@1x.png);
     background-size: 362px 240px;
     display: inline-block;
     vertical-align: middle;
@@ -912,7 +912,7 @@ body{
 .payment-icons2{
     margin-right: 10px;
     border-radius: 5px;
-    background-image: url(../Snapdeal/images/newHomePageIcons@1x.png);
+    background-image: url(images/newHomePageIcons@1x.png);
     background-size: 362px 240px;
     display: inline-block;
     vertical-align: middle;
@@ -923,7 +923,7 @@ body{
 .payment-icons3{
     margin-right: 10px;
     border-radius: 5px;
-    background-image: url(../Snapdeal/images/newHomePageIcons@1x.png);
+    background-image: url(images/newHomePageIcons@1x.png);
     background-size: 362px 240px;
     display: inline-block;
     vertical-align: middle;
@@ -934,7 +934,7 @@ body{
 .payment-icons4{
     margin-right: 10px;
     border-radius: 5px;
-    background-image: url(../Snapdeal/images/newHomePageIcons@1x.png);
+    background-image: url(images/newHomePageIcons@1x.png);
     background-size: 362px 240px;
     display: inline-block;
     vertical-align: middle;
@@ -945,7 +945,7 @@ body{
 .payment-icons5{
     margin-right: 10px;
     border-radius: 5px;
-    background-image: url(../Snapdeal/images/newHomePageIcons@1x.png);
+    background-image: url(images/newHomePageIcons@1x.png);
     background-size: 362px 240px;
     display: inline-block;
     vertical-align: middle;
@@ -956,7 +956,7 @@ body{
 .payment-icons6{
     margin-right: 10px;
     border-radius: 5px;
-    background-image: url(../Snapdeal/images/newHomePageIcons@1x.png);
+    background-image: url(images/newHomePageIcons@1x.png);
     background-size: 362px 240px;
     display: inline-block;
     vertical-align: middle;
@@ -1056,7 +1056,7 @@ body{
     width: 18px;
     height: 17px;
     background-position: 0px 0px;
-    background-image: url(../Snapdeal/images/ic_back_to_top2x.png);
+    background-image: url(images/ic_back_to_top2x.png);
     background-size: 18px 17px;
     display: inline-block;
     vertical-align: middle;
