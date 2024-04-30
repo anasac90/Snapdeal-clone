@@ -139,6 +139,7 @@ body{
     line-height: 9px;
 }
 .sd-icon {
+    font-family: snapdeal !important;
     margin-left: -6px;
     color: #fff;
     position: relative;
